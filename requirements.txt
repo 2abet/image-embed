@@ -1,0 +1,7 @@
+einops
+transformers
+torch
+gradio[mcp]
+gradio
+requests
+mcp
